@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "title": "Mod Keren 1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbVRrWb_CRYAoj-AtcdWYI_3LkZGeQV_5jA&s",
+      "description": "Ini adalah deskripsi untuk Mod Keren 1.",
+      "download": [
+        "https://example.com/downloads/mod1.mcpack",
+        "https://example.com/downloads/mod1_resource.mcpack"
+      ]
+    },
+    {
+      "title": "Mod Keren 2",
+      "image": "https://i.ytimg.com/vi/itCQei5XNRw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLByMx-PAPW5YaibRqFyC9TgCSG31A",
+      "description": "Ini adalah deskripsi untuk Mod Keren 2.",
+      "download": [
+        "https://example.com/downloads/mod2.mcpack"
+      ]
+    },
+    {
+      "title": "Mod Keren 3",
+      "image": "https://play-lh.googleusercontent.com/URI98uafZxN4_fRdUnCvwnr97wg4YhqvAQ_RIke5adX8cGNlB-95iR7YEhoz_QFOTi8=w526-h296-rw",
+      "description": "Ini adalah deskripsi untuk Mod Keren 3.",
+      "download": [
+        "https://example.com/downloads/mod3.mcpack",
+        "https://example.com/downloads/mod3_resource.mcpack",
+        "https://example.com/downloads/mod3_behavior.mcpack"
+      ]
+    }
+  ],
+  "backgroundUrl": "https://img.freepik.com/premium-photo/colorful-background-with-yellow-blue-geometric-pattern_481527-25413.jpg",
+  "title": "Kumpulan Mod Keren"
+}
